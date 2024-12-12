@@ -1,10 +1,11 @@
-# 1920. Build Array from Permutation
+# Solution for 1920. Build Array from Permutation
 
 ## Problem Statement
-[LeetCode Link](https://leetcode.com/problems/build-array-from-permutation/)
+
+[Leetcode Link](https://leetcode.com/problems/build-array-from-permutation/)
 
 ## Solution
-### Python
+
 ```python
 class Solution(object):
     def buildArray(self, nums):
