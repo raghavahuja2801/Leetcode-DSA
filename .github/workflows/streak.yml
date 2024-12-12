@@ -11,6 +11,9 @@ on:
 jobs:
   streak:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v2
@@ -55,6 +58,7 @@ jobs:
           # Commit and push the streak file
           git config --global user.email "raghavahuja2801@gmail.com"
           git config --global user.name "Raghav Ahuja"
+          
           git add streak.txt
           git commit -m "Update commit streak"
           git push
