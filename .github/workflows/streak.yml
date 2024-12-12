@@ -3,10 +3,10 @@ name: Commit Streak Tracker
 on:
   schedule:
     # Run every day at midnight UTC
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # Once a day at midnight UTC
   push:
     branches:
-      - main
+      - main  # Runs on pushes to the main branch, but we will check if a commit is needed.
 
 jobs:
   streak:
@@ -28,20 +28,22 @@ jobs:
           # Get the last commit date
           LAST_COMMIT_DATE=$(git log -1 --format=%cd --date=short)
           echo "Last Commit Date: $LAST_COMMIT_DATE"
-          
+
           # Read the previous streak from the file
           if [[ -f streak.txt ]]; then
             STREAK=$(cat streak.txt)
           else
             STREAK=0
           fi
-          
+
           # Compare with the current date
           TODAY=$(date +%Y-%m-%d)
           PREVIOUS_DAY=$(date -d "$LAST_COMMIT_DATE" +%Y-%m-%d)
-          
+
+          # If already committed today, skip
           if [[ "$TODAY" == "$PREVIOUS_DAY" ]]; then
             echo "Already committed today. Streak remains: $STREAK"
+            exit 0  # Exit early, no need to continue with the commit
           else
             if [[ "$TODAY" > "$PREVIOUS_DAY" ]]; then
               STREAK=$((STREAK + 1))
@@ -51,37 +53,16 @@ jobs:
               echo "New streak started. Streak: $STREAK"
             fi
           fi
-          
+
           # Save the streak count
           echo "$STREAK" > streak.txt
-
-      - name: Check if streak has changed
-        id: check_streak
+          
+      - name: Commit changes if streak updated
         run: |
-          # Compare the current streak with the last committed streak
-          CURRENT_STREAK=$(cat streak.txt)
-          LAST_COMMITTED_STREAK=$(git show HEAD:streak.txt)
-
-          if [[ "$CURRENT_STREAK" != "$LAST_COMMITTED_STREAK" ]]; then
-            echo "Streak has changed. Proceeding with commit."
-            echo "changed=true" >> $GITHUB_ENV
-          else
-            echo "No changes in streak. Skipping commit."
-            echo "changed=false" >> $GITHUB_ENV
-
-      - name: Commit changes
-        if: env.changed == 'true'
-        run: |
+          # Only commit if the streak file was modified
           git config --global user.email "raghavahuja2801@gmail.com"
           git config --global user.name "Raghav Ahuja"
           git add streak.txt
-          git commit -m "Update commit streak"
-          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/raghavahuja2801/Leetcode-DSA.git
-
-      - name: Update badge with streak count
-        if: env.changed == 'true'
-        run: |
-          curl -X POST -H "Content-Type: application/json" \
-          -d '{"streak": "'$(cat streak.txt)'"}' \
-          https://api.github.com/repos/raghavahuja2801/Leetcode-DSA/dispatches \
-          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}"
+          git commit -m "Update commit streak" || echo "No changes to commit"
+          git push
+        # This step runs only if there are changes to commit
