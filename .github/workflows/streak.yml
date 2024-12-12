@@ -75,5 +75,5 @@ jobs:
           sed -i "s|!\\[Commit Streak\\](https://img.shields.io/badge/Commit%20Streak-[0-9]*-green)|![Commit Streak](https://img.shields.io/badge/Commit%20Streak-${STREAK}-brightgreen?style=for-the-badge&labelColor=333333&color=00C851&label=Streak)|" README.md
           # Commit and push the updated README
           git add README.md
-          git commit -m "Update commit streak badge in README"
+          git commit -m "Update commit streak badge in README" || echo "No changes to commit"
           git push
