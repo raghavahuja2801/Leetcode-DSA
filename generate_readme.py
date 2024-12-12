@@ -4,9 +4,8 @@ import yaml
 with open("questions.yaml", "r") as file:
     data = yaml.safe_load(file)
 
-
 # Create the markdown table header
-header = ["Data Type", "Question", "URL", "Difficulty", "Tried", "Reviewed", "Important"]
+header = ["Data Type", "Question", "URL", "Solution", "Difficulty", "Tried", "Reviewed", "Important"]
 table = ["| " + " | ".join(header) + " |", "|-" + "|-" * (len(header) - 1) + "|"]
 
 # Add each row from the YAML data
@@ -15,6 +14,7 @@ for item in data:
         item["data_type"],
         item["question"],
         f"[Link]({item['url']})",
+        f"[Solution]({item['solution']})",  # Adding the solution link
         item["difficulty"],
         "✅" if item["tried"] else "❌",
         "✅" if item["reviewed"] else "❌",

@@ -1,6 +1,7 @@
 - data_type: Arrays
   question: 1920. Build Array from Permutation
   url: https://leetcode.com/problems/build-array-from-permutation/
+  solution: solutions/1920-build-array-from-permutation.md
   difficulty: Easy
   tried: true
   reviewed: false
