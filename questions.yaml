@@ -1,0 +1,84 @@
+- data_type: Arrays
+  question: 1920. Build Array from Permutation
+  difficulty: Easy
+  tried: true
+  reviewed: false
+  important: true
+- data_type: Arrays
+  question: 1929. Concatenation of Array
+  difficulty: Easy
+  tried: true
+  reviewed: false
+  important: true
+- data_type: Arrays
+  question: 1480. Running Sum of 1d Array
+  difficulty: Easy
+  tried: true
+  reviewed: false
+  important: true
+- data_type: Arrays
+  question: 1672. Richest Customer Wealth
+  difficulty: Easy
+  tried: true
+  reviewed: false
+  important: true
+- data_type: Arrays
+  question: 1470. Shuffle the Array
+  difficulty: Easy
+  tried: true
+  reviewed: false
+  important: false
+- data_type: Arrays
+  question: 1431. Kids With the Greatest Number of Candies
+  difficulty: Easy
+  tried: true
+  reviewed: false
+  important: false
+- data_type: Arrays
+  question: 1512. Number of Good Pairs
+  difficulty: Easy
+  tried: true
+  reviewed: false
+  important: false
+- data_type: Arrays
+  question: 1365. How Many Numbers Are Smaller Than the Current Number
+  difficulty: Easy
+  tried: true
+  reviewed: false
+  important: true
+- data_type: Arrays
+  question: 1389. Create Target Array in the Given Order
+  difficulty: Easy
+  tried: true
+  reviewed: false
+  important: false
+- data_type: Arrays
+  question: 1832. Check if the Sentence Is Pangram
+  difficulty: Easy
+  tried: true
+  reviewed: false
+  important: false
+- data_type: Arrays
+  question: 1773. Count Items Matching a Rule
+  difficulty: Easy
+  tried: true
+  reviewed: false
+  important: false
+- data_type: Arrays
+  question: 832. Flipping an Image
+  difficulty: Easy
+  tried: true
+  reviewed: false
+  important: false
+- data_type: Arrays
+  question: 54. Spiral Matrix
+  difficulty: Medium
+  tried: true
+  reviewed: false
+  important: false
+- data_type: Arrays
+  question: 59. Spiral Matrix II
+  difficulty: Medium
+  tried: true
+  reviewed: false
+  important: false
