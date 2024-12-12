@@ -61,7 +61,7 @@ jobs:
           # Compare the current streak with the last committed streak
           CURRENT_STREAK=$(cat streak.txt)
           LAST_COMMITTED_STREAK=$(git show HEAD:streak.txt)
-          
+
           if [[ "$CURRENT_STREAK" != "$LAST_COMMITTED_STREAK" ]]; then
             echo "Streak has changed. Proceeding with commit."
             echo "changed=true" >> $GITHUB_ENV
