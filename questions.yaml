@@ -1,99 +1,112 @@
 - data_type: Arrays
+  difficulty: Easy
+  important: true
   question: 1920. Build Array from Permutation
-  url: https://leetcode.com/problems/build-array-from-permutation/
+  reviewed: false
   solution: solutions/1920-build-array-from-permutation.md
-  difficulty: Easy
   tried: true
-  reviewed: false
-  important: true
+  url: https://leetcode.com/problems/build-array-from-permutation/
 - data_type: Arrays
+  difficulty: Easy
+  important: true
   question: 1929. Concatenation of Array
+  reviewed: false
+  solution: solutions/1929-concatenation-of-array.md
+  tried: true
   url: https://leetcode.com/problems/concatenation-of-array/
-  difficulty: Easy
-  tried: true
-  reviewed: false
-  important: true
 - data_type: Arrays
+  difficulty: Easy
+  important: true
   question: 1480. Running Sum of 1d Array
+  reviewed: false
+  solution: solutions/1480-running-sum-of-1d-array.md
+  tried: true
   url: https://leetcode.com/problems/running-sum-of-1d-array/
-  difficulty: Easy
-  tried: true
-  reviewed: false
-  important: true
 - data_type: Arrays
+  difficulty: Easy
+  important: true
   question: 1672. Richest Customer Wealth
+  reviewed: false
+  solution: solutions/1672-richest-customer-wealth.md
+  tried: true
   url: https://leetcode.com/problems/richest-customer-wealth/
-  difficulty: Easy
-  tried: true
-  reviewed: false
-  important: true
 - data_type: Arrays
+  difficulty: Easy
+  important: false
   question: 1470. Shuffle the Array
+  reviewed: false
+  solution: solutions/1470-shuffle-the-array.md
+  tried: true
   url: https://leetcode.com/problems/shuffle-the-array/
-  difficulty: Easy
-  tried: true
-  reviewed: false
-  important: false
 - data_type: Arrays
-  question: 1431. Kids With the Greatest Number of Candies 
+  difficulty: Easy
+  important: false
+  question: 1431. Kids With the Greatest Number of Candies
+  reviewed: false
+  solution: solutions/1431-kids-with-the-greatest-number-of-candies.md
+  tried: true
   url: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
-  difficulty: Easy
-  tried: true
-  reviewed: false
-  important: false
 - data_type: Arrays
+  difficulty: Easy
+  important: false
   question: 1512. Number of Good Pairs
+  reviewed: false
+  solution: solutions/1512-number-of-good-pairs.md
+  tried: true
   url: https://leetcode.com/problems/number-of-good-pairs/
-  difficulty: Easy
-  tried: true
-  reviewed: false
-  important: false
 - data_type: Arrays
-  question: 1365. How Many Numbers Are Smaller Than the Current Number
-  url: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
   difficulty: Easy
-  tried: true
-  reviewed: false
   important: true
+  question: 1365. How Many Numbers Are Smaller Than the Current Number
+  reviewed: false
+  solution: solutions/1365-how-many-numbers-are-smaller-than-the-current-number.md
+  tried: true
+  url: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 - data_type: Arrays
+  difficulty: Easy
+  important: false
   question: 1389. Create Target Array in the Given Order
+  reviewed: false
+  solution: solutions/1389-create-target-array-in-the-given-order.md
+  tried: true
   url: https://leetcode.com/problems/create-target-array-in-the-given-order/
-  difficulty: Easy
-  tried: true
-  reviewed: false
-  important: false
 - data_type: Arrays
+  difficulty: Easy
+  important: false
   question: 1832. Check if the Sentence Is Pangram
+  reviewed: false
+  solution: solutions/1832-check-if-the-sentence-is-pangram.md
+  tried: true
   url: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
-  difficulty: Easy
-  tried: true
-  reviewed: false
-  important: false
 - data_type: Arrays
+  difficulty: Easy
+  important: false
   question: 1773. Count Items Matching a Rule
+  reviewed: false
+  solution: solutions/1773-count-items-matching-a-rule.md
+  tried: true
   url: https://leetcode.com/problems/count-items-matching-a-rule/
-  difficulty: Easy
-  tried: true
-  reviewed: false
-  important: false
 - data_type: Arrays
+  difficulty: Easy
+  important: false
   question: 832. Flipping an Image
+  reviewed: false
+  solution: solutions/832-flipping-an-image.md
+  tried: true
   url: https://leetcode.com/problems/flipping-an-image/
-  difficulty: Easy
-  tried: true
-  reviewed: false
-  important: false
 - data_type: Arrays
+  difficulty: Medium
+  important: true
   question: 54. Spiral Matrix
+  reviewed: false
+  solution: solutions/54-spiral-matrix.md
+  tried: true
   url: https://leetcode.com/problems/spiral-matrix/
-  difficulty: Medium
-  tried: true
-  reviewed: false
-  important: false
 - data_type: Arrays
-  question: 59. Spiral Matrix II
-  url: https://leetcode.com/problems/spiral-matrix-ii/
   difficulty: Medium
-  tried: true
+  important: true
+  question: 59. Spiral Matrix II
   reviewed: false
-  important: false
+  solution: solutions/59-spiral-matrix-ii.md
+  tried: true
+  url: https://leetcode.com/problems/spiral-matrix-ii/

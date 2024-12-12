@@ -13,6 +13,12 @@ Each problem I solve has its own folder with a solution in the form of a code fi
 - **Growth mindset**: Embrace challenges, learn from failures, and improve your strategies.
 - **Learning never stops**: Keep experimenting with new approaches and stay curious about optimizing solutions.
 
+# Streak
+- To hold myself accountable I have this streak that keeps track of my consistency.
+
+![Commit Streak](https://img.shields.io/badge/Commit%20Streak-{{streak-count}}-green)
+
+
 
 ## Questions
 
