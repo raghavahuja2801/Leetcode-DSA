@@ -1,83 +1,97 @@
 - data_type: Arrays
   question: 1920. Build Array from Permutation
+  url: https://leetcode.com/problems/build-array-from-permutation/
   difficulty: Easy
   tried: true
   reviewed: false
   important: true
 - data_type: Arrays
   question: 1929. Concatenation of Array
+  url: https://leetcode.com/problems/concatenation-of-array/
   difficulty: Easy
   tried: true
   reviewed: false
   important: true
 - data_type: Arrays
   question: 1480. Running Sum of 1d Array
+  url: https://leetcode.com/problems/running-sum-of-1d-array/
   difficulty: Easy
   tried: true
   reviewed: false
   important: true
 - data_type: Arrays
   question: 1672. Richest Customer Wealth
+  url: https://leetcode.com/problems/richest-customer-wealth/
   difficulty: Easy
   tried: true
   reviewed: false
   important: true
 - data_type: Arrays
   question: 1470. Shuffle the Array
+  url: https://leetcode.com/problems/shuffle-the-array/
   difficulty: Easy
   tried: true
   reviewed: false
   important: false
 - data_type: Arrays
-  question: 1431. Kids With the Greatest Number of Candies
+  question: 1431. Kids With the Greatest Number of Candies 
+  url: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
   difficulty: Easy
   tried: true
   reviewed: false
   important: false
 - data_type: Arrays
   question: 1512. Number of Good Pairs
+  url: https://leetcode.com/problems/number-of-good-pairs/
   difficulty: Easy
   tried: true
   reviewed: false
   important: false
 - data_type: Arrays
   question: 1365. How Many Numbers Are Smaller Than the Current Number
+  url: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
   difficulty: Easy
   tried: true
   reviewed: false
   important: true
 - data_type: Arrays
   question: 1389. Create Target Array in the Given Order
+  url: https://leetcode.com/problems/create-target-array-in-the-given-order/
   difficulty: Easy
   tried: true
   reviewed: false
   important: false
 - data_type: Arrays
   question: 1832. Check if the Sentence Is Pangram
+  url: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
   difficulty: Easy
   tried: true
   reviewed: false
   important: false
 - data_type: Arrays
   question: 1773. Count Items Matching a Rule
+  url: https://leetcode.com/problems/count-items-matching-a-rule/
   difficulty: Easy
   tried: true
   reviewed: false
   important: false
 - data_type: Arrays
   question: 832. Flipping an Image
+  url: https://leetcode.com/problems/flipping-an-image/
   difficulty: Easy
   tried: true
   reviewed: false
   important: false
 - data_type: Arrays
   question: 54. Spiral Matrix
+  url: https://leetcode.com/problems/spiral-matrix/
   difficulty: Medium
   tried: true
   reviewed: false
   important: false
 - data_type: Arrays
   question: 59. Spiral Matrix II
+  url: https://leetcode.com/problems/spiral-matrix-ii/
   difficulty: Medium
   tried: true
   reviewed: false
