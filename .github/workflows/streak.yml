@@ -1,0 +1,60 @@
+name: Commit Streak Tracker
+
+on:
+  schedule:
+    # Run every day at midnight UTC
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Calculate commit streak
+        run: |
+          # Get the last commit date
+          LAST_COMMIT_DATE=$(git log -1 --format=%cd --date=short)
+          echo "Last Commit Date: $LAST_COMMIT_DATE"
+
+          # Read the previous streak from the file
+          if [[ -f streak.txt ]]; then
+            STREAK=$(cat streak.txt)
+          else
+            STREAK=0
+          fi
+
+          # Compare with the current date
+          TODAY=$(date +%Y-%m-%d)
+          PREVIOUS_DAY=$(date -d "$LAST_COMMIT_DATE" +%Y-%m-%d)
+
+          if [[ "$TODAY" == "$PREVIOUS_DAY" ]]; then
+            echo "Already committed today. Streak remains: $STREAK"
+          else
+            if [[ "$TODAY" > "$PREVIOUS_DAY" ]]; then
+              STREAK=$((STREAK + 1))
+              echo "Streak increased to: $STREAK"
+            else
+              STREAK=1
+              echo "New streak started. Streak: $STREAK"
+            fi
+          fi
+
+          # Save the streak count
+          echo "$STREAK" > streak.txt
+          
+          # Commit and push the streak file
+          git config --global user.email "your-email@example.com"
+          git config --global user.name "Your Name"
+          git add streak.txt
+          git commit -m "Update commit streak"
+          git push
