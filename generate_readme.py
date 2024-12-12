@@ -26,9 +26,9 @@ for item in data:
 markdown_table = "\n".join(table)
 
 # Write the markdown table to README.md
-with open("README.md", "w") as f:
+with open("table.md", "w") as f:
     f.write("# Leetcode Problems\n\n")
     f.write("Here is the list of Leetcode problems I have worked on:\n\n")
     f.write(markdown_table)
 
-print("Markdown table has been written to README.md")
+print("Markdown table has been written to table.md")
