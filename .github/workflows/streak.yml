@@ -3,10 +3,10 @@ name: Commit Streak Tracker
 on:
   schedule:
     # Run every day at midnight UTC
-    - cron: '0 0 * * *'  # Once a day at midnight UTC
+    - cron: '0 0 * * *'
   push:
     branches:
-      - main  # Runs on pushes to the main branch, but we will check if a commit is needed.
+      - main  # Runs on pushes to the main branch
 
 jobs:
   streak:
@@ -56,7 +56,7 @@ jobs:
 
           # Save the streak count
           echo "$STREAK" > streak.txt
-          
+
       - name: Commit changes if streak updated
         run: |
           # Only commit if the streak file was modified
@@ -65,19 +65,15 @@ jobs:
           git add streak.txt
           git commit -m "Update commit streak" || echo "No changes to commit"
           git push
-        # This step runs only if there are changes to commit
+
       - name: Update the README with streak badge
         run: |
-          # Read the streak count from streak.txt
-          STREAK=$(cat streak.txt)
+          python update_readme.py
 
-          # Update README to include the current streak in the badge URL
-          echo "current streak: $STREAK"
-          sed -i "s|!\\[Commit Streak\\](https://img.shields.io/badge/Commit%20Streak-[0-9]*-brightgreen\\?style=for-the-badge\\&labelColor=333333\\&color=00C851\\&label=Streak)|![Commit Streak](https://img.shields.io/badge/Commit%20Streak-${STREAK}-brightgreen?style=for-the-badge&labelColor=333333&color=00C851&label=Streak)|" README.md
-           # Log changes and check if README was updated
-          cat README.md
-          git diff README.md || echo "No changes detected"
-          # Commit and push the updated README
+      - name: Commit README badge changes
+        run: |
+          git config --global user.email "raghavahuja2801@gmail.com"
+          git config --global user.name "Raghav Ahuja"
           git add README.md
           git commit -m "Update commit streak badge in README" || echo "No changes to commit"
           git push
