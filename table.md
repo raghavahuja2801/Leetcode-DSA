@@ -16,5 +16,6 @@ Here is the list of Leetcode problems I have worked on:
 | Arrays | 1832. Check if the Sentence Is Pangram | [Link](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Solution](solutions/1832-check-if-the-sentence-is-pangram.md) | Easy | ✅ | ❌ | ❌ |
 | Arrays | 1773. Count Items Matching a Rule | [Link](https://leetcode.com/problems/count-items-matching-a-rule/) | [Solution](solutions/1773-count-items-matching-a-rule.md) | Easy | ✅ | ❌ | ❌ |
 | Arrays | 832. Flipping an Image | [Link](https://leetcode.com/problems/flipping-an-image/) | [Solution](solutions/832-flipping-an-image.md) | Easy | ✅ | ❌ | ❌ |
-| Arrays | 54. Spiral Matrix | [Link](https://leetcode.com/problems/spiral-matrix/) | [Solution](solutions/54-spiral-matrix.md) | Medium | ✅ | ❌ | ❌ |
-| Arrays | 59. Spiral Matrix II | [Link](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](solutions/59-spiral-matrix-ii.md) | Medium | ✅ | ❌ | ❌ |
+| Arrays | 54. Spiral Matrix | [Link](https://leetcode.com/problems/spiral-matrix/) | [Solution](solutions/54-spiral-matrix.md) | Medium | ✅ | ❌ | ✅ |
+| Arrays | 59. Spiral Matrix II | [Link](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](solutions/59-spiral-matrix-ii.md) | Medium | ✅ | ❌ | ✅ |
+| Arrays | 885. Spiral Matrix III | [Link](https://leetcode.com/problems/spiral-matrix-iii/) | [Solution](solutions/885-spiral-matrix-iii.md) | Medium | ✅ | ❌ | ✅ |
