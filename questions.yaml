@@ -110,3 +110,11 @@
   solution: solutions/59-spiral-matrix-ii.md
   tried: true
   url: https://leetcode.com/problems/spiral-matrix-ii/
+- data_type: Arrays
+  difficulty: Medium
+  important: true
+  question: 885. Spiral Matrix III
+  reviewed: false
+  solution: solutions/885-spiral-matrix-iii.md
+  tried: true
+  url: https://leetcode.com/problems/spiral-matrix-iii/

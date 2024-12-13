@@ -10,6 +10,10 @@ os.makedirs("solutions", exist_ok=True)
 
 # Loop through each question in the YAML data
 for item in data:
+    # Check if the solution field is already populated
+    if "solution" in item and item["solution"]:
+        continue  # Skip this question if it already has a solution linked
+
     # Extract the question ID and title from the question field
     question_id = item["question"].split(".")[0]
     question_title = item["question"].split(".")[1].strip()
