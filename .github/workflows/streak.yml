@@ -72,6 +72,7 @@ jobs:
           STREAK=$(cat streak.txt)
 
           # Update README to include the current streak in the badge URL
+          echo "current streak: $STREAK"
           sed -i "s|!\\[Commit Streak\\](https://img.shields.io/badge/Commit%20Streak-[0-9]*-brightgreen\\?style=for-the-badge\\&labelColor=333333\\&color=00C851\\&label=Streak)|![Commit Streak](https://img.shields.io/badge/Commit%20Streak-${STREAK}-brightgreen?style=for-the-badge&labelColor=333333&color=00C851&label=Streak)|" README.md
           # Commit and push the updated README
           git add README.md
