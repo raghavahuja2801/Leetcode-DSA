@@ -118,3 +118,11 @@
   solution: solutions/885-spiral-matrix-iii.md
   tried: true
   url: https://leetcode.com/problems/spiral-matrix-iii/
+- data_type: Arrays
+  difficulty: Medium
+  important: true
+  question: 73. Set Matrix Zeroes
+  reviewed: false
+  solution: solutions/73-set-matrix-zeroes.md
+  tried: true
+  url: https://leetcode.com/problems/set-matrix-zeroes

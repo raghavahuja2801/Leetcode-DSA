@@ -19,3 +19,4 @@ Here is the list of Leetcode problems I have worked on:
 | Arrays | 54. Spiral Matrix | [Link](https://leetcode.com/problems/spiral-matrix/) | [Solution](solutions/54-spiral-matrix.md) | Medium | ✅ | ❌ | ✅ |
 | Arrays | 59. Spiral Matrix II | [Link](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](solutions/59-spiral-matrix-ii.md) | Medium | ✅ | ❌ | ✅ |
 | Arrays | 885. Spiral Matrix III | [Link](https://leetcode.com/problems/spiral-matrix-iii/) | [Solution](solutions/885-spiral-matrix-iii.md) | Medium | ✅ | ❌ | ✅ |
+| Arrays | 73. Set Matrix Zeroes | [Link](https://leetcode.com/problems/set-matrix-zeroes) | [Solution](solutions/73-set-matrix-zeroes.md) | Medium | ✅ | ❌ | ✅ |
