@@ -68,7 +68,7 @@ jobs:
 
       - name: Update the README with streak badge
         run: |
-          python update_readme.py
+          python update.py
 
       - name: Commit README badge changes
         run: |
