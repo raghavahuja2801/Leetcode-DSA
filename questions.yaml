@@ -126,3 +126,19 @@
   solution: solutions/73-set-matrix-zeroes.md
   tried: true
   url: https://leetcode.com/problems/set-matrix-zeroes
+- data_type: Searching
+  difficulty: Easy
+  important: false
+  question: 69. Sqrt(x)
+  reviewed: false
+  solution: solutions/69-sqrt(x).md
+  tried: true
+  url: https://leetcode.com/problems/sqrtx/
+- data_type: Searching
+  difficulty: Easy
+  important: false
+  question: 167. Two Sum II - Input Array Is Sorted
+  reviewed: false
+  solution: solutions/167-two-sum-ii---input-array-is-sorted.md
+  tried: true
+  url: https://leetcode.com/problems/search-insert-position/
