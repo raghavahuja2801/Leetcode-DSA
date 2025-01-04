@@ -17,7 +17,7 @@ Each problem I solve has its own folder with a solution in the form of a code fi
 # Streak
 - To hold myself accountable I have this streak that keeps track of my consistency.
 
-![Commit Streak](https://img.shields.io/badge/Commit%20Streak-25-brightgreen?style=for-the-badge&labelColor=333333&color=00C851&label=Streak)
+![Commit Streak](https://img.shields.io/badge/Commit%20Streak-26-brightgreen?style=for-the-badge&labelColor=333333&color=00C851&label=Streak)
 
 
 
