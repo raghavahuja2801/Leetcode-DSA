@@ -42,6 +42,11 @@ Each problem I solve has its own folder with a solution in the form of a code fi
 | Arrays | 59. Spiral Matrix II | [Link](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](solutions/59-spiral-matrix-ii.md) | Medium | ✅ | ❌ | ✅ |
 | Arrays | 885. Spiral Matrix III | [Link](https://leetcode.com/problems/spiral-matrix-iii/) | [Solution](solutions/885-spiral-matrix-iii.md) | Medium | ✅ | ❌ | ✅ |
 | Arrays | 73. Set Matrix Zeroes | [Link](https://leetcode.com/problems/set-matrix-zeroes) | [Solution](solutions/73-set-matrix-zeroes.md) | Medium | ✅ | ❌ | ✅ |
+| Searching | 69. Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | [Solution](solutions/69-sqrt(x).md) | Easy | ✅ | ❌ | ❌ |
+| Searching | 167. Two Sum II - Input Array Is Sorted | [Link](https://leetcode.com/problems/search-insert-position/) | [Solution](solutions/167-two-sum-ii---input-array-is-sorted.md) | Easy | ✅ | ❌ | ❌ |
+| Sorting | 69. Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | [Solution](solutions/69-sqrt(x).md) | Easy | ✅ | ❌ | ❌ |
+| Sorting | 374. Guess Number Higher or Lower | [Link](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](solutions/374-guess-number-higher-or-lower.md) | Easy | ✅ | ❌ | ❌ |
+
 
 ## Join Me on This Journey!
 

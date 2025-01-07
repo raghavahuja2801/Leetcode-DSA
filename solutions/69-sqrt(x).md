@@ -7,22 +7,20 @@
 ## Solution
 
 ```python
-class Solution(object):
-    def mySqrt(self, x):
-        """
-        :type x: int
-        :rtype: int
-        """
-        if x < 2:
+class Solution:
+    def mySqrt(self, x: int) -> int:
+
+        if x == 0 or x == 1:
             return x
-        
-        low, high = 0,x
-        while low<=high:
-            mid = (low+high)/2
-            if mid*mid == x:
+    
+        left, right = 0, x
+        while left <= right:
+            mid = (left + right) // 2
+            if mid * mid == x:
                 return mid
-            elif mid*mid < x:
-                low = mid +  1
+            elif mid * mid < x:
+                left = mid + 1
             else:
-                high = mid - 1
-        return high
+                right = mid - 1
+        
+        return right

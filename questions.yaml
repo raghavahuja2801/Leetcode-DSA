@@ -142,3 +142,19 @@
   solution: solutions/167-two-sum-ii---input-array-is-sorted.md
   tried: true
   url: https://leetcode.com/problems/search-insert-position/
+- data_type: Sorting
+  difficulty: Easy
+  important: false
+  question: 69. Sqrt(x)
+  reviewed: false
+  solution: solutions/69-sqrt(x).md
+  tried: true
+  url: https://leetcode.com/problems/sqrtx/
+- data_type: Sorting
+  difficulty: Easy
+  important: false
+  question: 374. Guess Number Higher or Lower
+  reviewed: false
+  solution: solutions/374-guess-number-higher-or-lower.md
+  tried: true
+  url: https://leetcode.com/problems/guess-number-higher-or-lower/
