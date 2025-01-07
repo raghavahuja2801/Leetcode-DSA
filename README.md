@@ -24,7 +24,7 @@ Each problem I solve has its own folder with a solution in the form of a code fi
 
 ## Questions
 
-|| Data Type | Question | URL | Solution | Difficulty | Tried | Reviewed | Important |
+| Data Type | Question | URL | Solution | Difficulty | Tried | Reviewed | Important |
 |-|-|-|-|-|-|-|-|
 | Arrays | 1920. Build Array from Permutation | [Link](https://leetcode.com/problems/build-array-from-permutation/) | [Solution](solutions/1920-build-array-from-permutation.md) | Easy | ✅ | ❌ | ✅ |
 | Arrays | 1929. Concatenation of Array | [Link](https://leetcode.com/problems/concatenation-of-array/) | [Solution](solutions/1929-concatenation-of-array.md) | Easy | ✅ | ❌ | ✅ |
