@@ -135,7 +135,7 @@
   tried: true
   url: https://leetcode.com/problems/sqrtx/
 - data_type: Searching
-  difficulty: Easy
+  difficulty: Medium
   important: false
   question: 167. Two Sum II - Input Array Is Sorted
   reviewed: false
@@ -158,3 +158,27 @@
   solution: solutions/374-guess-number-higher-or-lower.md
   tried: true
   url: https://leetcode.com/problems/guess-number-higher-or-lower/
+- data_type: Searching
+  difficulty: Easy
+  important: false
+  question: 744. Find Smallest Letter Greater Than Target
+  reviewed: false
+  solution: solutions/744-find-smallest-letter-greater-than-target.md
+  tried: true
+  url: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+- data_type: Searching
+  difficulty: Easy
+  important: false
+  question: 1539. Kth Missing Positive Number
+  reviewed: false
+  solution: solutions/1539-kth-missing-positive-number.md
+  tried: true
+  url: https://leetcode.com/problems/kth-missing-positive-number/
+- data_type: Searching
+  difficulty: Easy
+  important: false
+  question: 1351. Count Negative Numbers in a Sorted Matrix
+  reviewed: false
+  solution: solutions/1351-count-negative-numbers-in-a-sorted-matrix.md
+  tried: true
+  url: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/

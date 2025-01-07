@@ -24,7 +24,7 @@ Each problem I solve has its own folder with a solution in the form of a code fi
 
 ## Questions
 
-| Data Type | Question | URL | Solution | Difficulty | Tried | Reviewed | Important |
+|| Data Type | Question | URL | Solution | Difficulty | Tried | Reviewed | Important |
 |-|-|-|-|-|-|-|-|
 | Arrays | 1920. Build Array from Permutation | [Link](https://leetcode.com/problems/build-array-from-permutation/) | [Solution](solutions/1920-build-array-from-permutation.md) | Easy | ✅ | ❌ | ✅ |
 | Arrays | 1929. Concatenation of Array | [Link](https://leetcode.com/problems/concatenation-of-array/) | [Solution](solutions/1929-concatenation-of-array.md) | Easy | ✅ | ❌ | ✅ |
@@ -43,10 +43,12 @@ Each problem I solve has its own folder with a solution in the form of a code fi
 | Arrays | 885. Spiral Matrix III | [Link](https://leetcode.com/problems/spiral-matrix-iii/) | [Solution](solutions/885-spiral-matrix-iii.md) | Medium | ✅ | ❌ | ✅ |
 | Arrays | 73. Set Matrix Zeroes | [Link](https://leetcode.com/problems/set-matrix-zeroes) | [Solution](solutions/73-set-matrix-zeroes.md) | Medium | ✅ | ❌ | ✅ |
 | Searching | 69. Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | [Solution](solutions/69-sqrt(x).md) | Easy | ✅ | ❌ | ❌ |
-| Searching | 167. Two Sum II - Input Array Is Sorted | [Link](https://leetcode.com/problems/search-insert-position/) | [Solution](solutions/167-two-sum-ii---input-array-is-sorted.md) | Easy | ✅ | ❌ | ❌ |
+| Searching | 167. Two Sum II - Input Array Is Sorted | [Link](https://leetcode.com/problems/search-insert-position/) | [Solution](solutions/167-two-sum-ii---input-array-is-sorted.md) | Medium | ✅ | ❌ | ❌ |
 | Sorting | 69. Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | [Solution](solutions/69-sqrt(x).md) | Easy | ✅ | ❌ | ❌ |
 | Sorting | 374. Guess Number Higher or Lower | [Link](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](solutions/374-guess-number-higher-or-lower.md) | Easy | ✅ | ❌ | ❌ |
-
+| Searching | 744. Find Smallest Letter Greater Than Target | [Link](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Solution](solutions/744-find-smallest-letter-greater-than-target.md) | Easy | ✅ | ❌ | ❌ |
+| Searching | 1539. Kth Missing Positive Number | [Link](https://leetcode.com/problems/kth-missing-positive-number/) | [Solution](solutions/1539-kth-missing-positive-number.md) | Easy | ✅ | ❌ | ❌ |
+| Searching | 1351. Count Negative Numbers in a Sorted Matrix | [Link](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Solution](solutions/1351-count-negative-numbers-in-a-sorted-matrix.md) | Easy | ✅ | ❌ | ❌ |
 
 ## Join Me on This Journey!
 
