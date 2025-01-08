@@ -42,7 +42,7 @@ class Solution:
             return [-1, -1]  # Target not found
         last = findLast(nums, target)
         return [first, last]
-
+```
 
 ---
 
