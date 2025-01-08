@@ -214,3 +214,19 @@
   solution: solutions/81-search-in-rotated-sorted-array-ii.md
   tried: true
   url: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+- data_type: Searching
+  difficulty: Medium
+  important: true
+  question: 153. Find Minimum in Rotated Sorted Array
+  reviewed: false
+  solution: solutions/153-find-minimum-in-rotated-sorted-array.md
+  tried: true
+  url: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+- data_type: Searching
+  difficulty: Medium
+  important: true
+  question: 18. 4Sum
+  reviewed: false
+  solution: solutions/18-4sum.md
+  tried: true
+  url: https://leetcode.com/problems/4sum/

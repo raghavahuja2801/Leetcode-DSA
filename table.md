@@ -31,3 +31,5 @@ Here is the list of Leetcode problems I have worked on:
 | Searching | 34. Find First and Last Position of Element in Sorted Array | [Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](solutions/34-find-first-and-last-position-of-element-in-sorted-array.md) | Medium | ✅ | ❌ | ✅ |
 | Searching | 33. Search in Rotated Sorted Array | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](solutions/33-search-in-rotated-sorted-array.md) | Medium | ✅ | ❌ | ✅ |
 | Searching | 81. Search in Rotated Sorted Array II | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](solutions/81-search-in-rotated-sorted-array-ii.md) | Medium | ✅ | ❌ | ✅ |
+| Searching | 153. Find Minimum in Rotated Sorted Array | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](solutions/153-find-minimum-in-rotated-sorted-array.md) | Medium | ✅ | ❌ | ✅ |
+| Searching | 18. 4Sum | [Link](https://leetcode.com/problems/4sum/) | [Solution](solutions/18-4sum.md) | Medium | ✅ | ❌ | ✅ |
