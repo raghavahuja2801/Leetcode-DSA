@@ -192,7 +192,7 @@
   url: https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 - data_type: Searching
   difficulty: Medium
-  important: false
+  important: true
   question: 34. Find First and Last Position of Element in Sorted Array
   reviewed: false
   solution: solutions/34-find-first-and-last-position-of-element-in-sorted-array.md
