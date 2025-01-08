@@ -51,6 +51,8 @@ Each problem I solve has its own folder with a solution in the form of a code fi
 | Searching | 1351. Count Negative Numbers in a Sorted Matrix | [Link](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Solution](solutions/1351-count-negative-numbers-in-a-sorted-matrix.md) | Easy | ✅ | ❌ | ❌ |
 | Searching | 1608. Special Array With X Elements Greater Than or Equal X | [Link](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [Solution](solutions/1608-special-array-with-x-elements-greater-than-or-equal-x.md) | Easy | ✅ | ❌ | ❌ |
 | Searching | 34. Find First and Last Position of Element in Sorted Array | [Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](solutions/34-find-first-and-last-position-of-element-in-sorted-array.md) | Medium | ✅ | ❌ | ✅ |
+| Searching | 33. Search in Rotated Sorted Array | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](solutions/33-search-in-rotated-sorted-array.md) | Medium | ✅ | ❌ | ✅ |
+| Searching | 81. Search in Rotated Sorted Array II | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](solutions/81-search-in-rotated-sorted-array-ii.md) | Medium | ✅ | ❌ | ✅ |
 
 ## Join Me on This Journey!
 

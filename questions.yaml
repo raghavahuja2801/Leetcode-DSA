@@ -198,3 +198,19 @@
   solution: solutions/34-find-first-and-last-position-of-element-in-sorted-array.md
   tried: true
   url: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+- data_type: Searching
+  difficulty: Medium
+  important: true
+  question: 33. Search in Rotated Sorted Array
+  reviewed: false
+  solution: solutions/33-search-in-rotated-sorted-array.md
+  tried: true
+  url: https://leetcode.com/problems/search-in-rotated-sorted-array/
+- data_type: Searching
+  difficulty: Medium
+  important: true
+  question: 81. Search in Rotated Sorted Array II
+  reviewed: false
+  solution: solutions/81-search-in-rotated-sorted-array-ii.md
+  tried: true
+  url: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
