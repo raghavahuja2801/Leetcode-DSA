@@ -24,6 +24,7 @@ Each problem I solve has its own folder with a solution in the form of a code fi
 
 ## Questions
 
+
 | Data Type | Question | URL | Solution | Difficulty | Tried | Reviewed | Important |
 |-|-|-|-|-|-|-|-|
 | Arrays | 1920. Build Array from Permutation | [Link](https://leetcode.com/problems/build-array-from-permutation/) | [Solution](solutions/1920-build-array-from-permutation.md) | Easy | ✅ | ❌ | ✅ |
@@ -44,11 +45,13 @@ Each problem I solve has its own folder with a solution in the form of a code fi
 | Arrays | 73. Set Matrix Zeroes | [Link](https://leetcode.com/problems/set-matrix-zeroes) | [Solution](solutions/73-set-matrix-zeroes.md) | Medium | ✅ | ❌ | ✅ |
 | Searching | 69. Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | [Solution](solutions/69-sqrt(x).md) | Easy | ✅ | ❌ | ❌ |
 | Searching | 167. Two Sum II - Input Array Is Sorted | [Link](https://leetcode.com/problems/search-insert-position/) | [Solution](solutions/167-two-sum-ii---input-array-is-sorted.md) | Medium | ✅ | ❌ | ❌ |
-| Sorting | 69. Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | [Solution](solutions/69-sqrt(x).md) | Easy | ✅ | ❌ | ❌ |
-| Sorting | 374. Guess Number Higher or Lower | [Link](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](solutions/374-guess-number-higher-or-lower.md) | Easy | ✅ | ❌ | ❌ |
+| Searching | 69. Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | [Solution](solutions/69-sqrt(x).md) | Easy | ✅ | ❌ | ❌ |
+| Searching | 374. Guess Number Higher or Lower | [Link](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](solutions/374-guess-number-higher-or-lower.md) | Easy | ✅ | ❌ | ❌ |
 | Searching | 744. Find Smallest Letter Greater Than Target | [Link](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Solution](solutions/744-find-smallest-letter-greater-than-target.md) | Easy | ✅ | ❌ | ❌ |
 | Searching | 1539. Kth Missing Positive Number | [Link](https://leetcode.com/problems/kth-missing-positive-number/) | [Solution](solutions/1539-kth-missing-positive-number.md) | Easy | ✅ | ❌ | ❌ |
 | Searching | 1351. Count Negative Numbers in a Sorted Matrix | [Link](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Solution](solutions/1351-count-negative-numbers-in-a-sorted-matrix.md) | Easy | ✅ | ❌ | ❌ |
+| Searching | 1608. Special Array With X Elements Greater Than or Equal X | [Link](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [Solution](solutions/1608-special-array-with-x-elements-greater-than-or-equal-x.md) | Easy | ✅ | ❌ | ❌ |
+| Searching | 34. Find First and Last Position of Element in Sorted Array | [Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](solutions/34-find-first-and-last-position-of-element-in-sorted-array.md) | Medium | ✅ | ❌ | ❌ |
 
 ## Join Me on This Journey!
 

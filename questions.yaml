@@ -142,7 +142,7 @@
   solution: solutions/167-two-sum-ii---input-array-is-sorted.md
   tried: true
   url: https://leetcode.com/problems/search-insert-position/
-- data_type: Sorting
+- data_type: Searching
   difficulty: Easy
   important: false
   question: 69. Sqrt(x)
@@ -150,7 +150,7 @@
   solution: solutions/69-sqrt(x).md
   tried: true
   url: https://leetcode.com/problems/sqrtx/
-- data_type: Sorting
+- data_type: Searching
   difficulty: Easy
   important: false
   question: 374. Guess Number Higher or Lower
@@ -182,3 +182,19 @@
   solution: solutions/1351-count-negative-numbers-in-a-sorted-matrix.md
   tried: true
   url: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+- data_type: Searching
+  difficulty: Easy
+  important: false
+  question: 1608. Special Array With X Elements Greater Than or Equal X
+  reviewed: false
+  solution: solutions/1608-special-array-with-x-elements-greater-than-or-equal-x.md
+  tried: true
+  url: https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
+- data_type: Searching
+  difficulty: Medium
+  important: false
+  question: 34. Find First and Last Position of Element in Sorted Array
+  reviewed: false
+  solution: solutions/34-find-first-and-last-position-of-element-in-sorted-array.md
+  tried: true
+  url: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
