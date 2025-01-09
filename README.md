@@ -24,7 +24,8 @@ Each problem I solve has its own folder with a solution in the form of a code fi
 
 ## Questions
 
-Here's a list of questions I am done with: ![Leetcode Problems](./table.md)
+Here's a list of questions I am done with: [Leetcode Problems](./table.md)
+
 ## Important Algorithms
 
 This section highlights key algorithms implemented during my LeetCode journey. They are organized into separate folders based on algorithm types, such as sorting, searching, and more. Each folder contains well-documented solutions with explanations for better understanding.
