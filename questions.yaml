@@ -278,3 +278,43 @@
   solution: solutions/976-largest-perimeter-triangle.md
   tried: true
   url: https://leetcode.com/problems/largest-perimeter-triangle/
+- data_type: Sorting
+  difficulty: Easy
+  important: false
+  question: 1051. Height Checker
+  reviewed: false
+  solution: solutions/1051-height-checker.md
+  tried: true
+  url: https://leetcode.com/problems/height-checker/
+- data_type: Sorting
+  difficulty: Easy
+  important: false
+  question: 1200. Minimum Absolute Difference
+  reviewed: false
+  solution: solutions/1200-minimum-absolute-difference.md
+  tried: true
+  url: https://leetcode.com/problems/minimum-absolute-difference/
+- data_type: Sorting
+  difficulty: Easy
+  important: false
+  question: 1491. Average Salary Excluding the Minimum and Maximum Salary
+  reviewed: false
+  solution: solutions/1491-average-salary-excluding-the-minimum-and-maximum-salary.md
+  tried: true
+  url: https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+- data_type: Sorting
+  difficulty: Easy
+  important: false
+  question: 1502. Can Make Arithmetic Progression From Sequence
+  reviewed: false
+  solution: solutions/1502-can-make-arithmetic-progression-from-sequence.md
+  tried: true
+  url: https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
+- data_type: Sorting
+  difficulty: Easy
+  important: false
+  question: 1331. Rank Transform of an Array
+  reviewed: false
+  solution: solutions/1331-rank-transform-of-an-array.md
+  tried: true
+  url: https://leetcode.com/problems/rank-transform-of-an-array/

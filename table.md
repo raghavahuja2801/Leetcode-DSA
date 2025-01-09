@@ -39,3 +39,8 @@ Here is the list of Leetcode problems I have worked on:
 | Sorting | 628. Maximum Product of Three Numbers | [Link](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](solutions/628-maximum-product-of-three-numbers.md) | Easy | ✅ | ❌ | ❌ |
 | Sorting | 976. Largest Perimeter Triangle | [Link](https://leetcode.com/problems/largest-perimeter-triangle/) | [Solution](solutions/976-largest-perimeter-triangle.md) | Easy | ✅ | ❌ | ❌ |
 | Sorting | 976. Largest Perimeter Triangle | [Link](https://leetcode.com/problems/largest-perimeter-triangle/) | [Solution](solutions/976-largest-perimeter-triangle.md) | Easy | ✅ | ❌ | ❌ |
+| Sorting | 1051. Height Checker | [Link](https://leetcode.com/problems/height-checker/) | [Solution](solutions/1051-height-checker.md) | Easy | ✅ | ❌ | ❌ |
+| Sorting | 1200. Minimum Absolute Difference | [Link](https://leetcode.com/problems/minimum-absolute-difference/) | [Solution](solutions/1200-minimum-absolute-difference.md) | Easy | ✅ | ❌ | ❌ |
+| Sorting | 1491. Average Salary Excluding the Minimum and Maximum Salary | [Link](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Solution](solutions/1491-average-salary-excluding-the-minimum-and-maximum-salary.md) | Easy | ✅ | ❌ | ❌ |
+| Sorting | 1502. Can Make Arithmetic Progression From Sequence | [Link](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [Solution](solutions/1502-can-make-arithmetic-progression-from-sequence.md) | Easy | ✅ | ❌ | ❌ |
+| Sorting | 1331. Rank Transform of an Array | [Link](https://leetcode.com/problems/rank-transform-of-an-array/) | [Solution](solutions/1331-rank-transform-of-an-array.md) | Easy | ✅ | ❌ | ❌ |
