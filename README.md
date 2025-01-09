@@ -55,6 +55,10 @@ Each problem I solve has its own folder with a solution in the form of a code fi
 | Searching | 81. Search in Rotated Sorted Array II | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](solutions/81-search-in-rotated-sorted-array-ii.md) | Medium | ✅ | ❌ | ✅ |
 | Searching | 153. Find Minimum in Rotated Sorted Array | [Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](solutions/153-find-minimum-in-rotated-sorted-array.md) | Medium | ✅ | ❌ | ✅ |
 | Searching | 18. 4Sum | [Link](https://leetcode.com/problems/4sum/) | [Solution](solutions/18-4sum.md) | Medium | ✅ | ❌ | ✅ |
+| Sorting | 88. Merge Sorted Array | [Link](https://leetcode.com/problems/merge-sorted-array/) | [Solution](solutions/88-merge-sorted-array.md) | Easy | ✅ | ❌ | ❌ |
+| Sorting | 217. Contains Duplicate | [Link](https://leetcode.com/problems/contains-duplicate/) | [Solution](solutions/217-contains-duplicate.md) | Easy | ✅ | ❌ | ❌ |
+| Sorting | 268. Missing Number | [Link](https://leetcode.com/problems/missing-number/) | [Solution](solutions/268-missing-number.md) | Easy | ✅ | ❌ | ❌ |
+| Sorting | 628. Maximum Product of Three Numbers | [Link](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](solutions/628-maximum-product-of-three-numbers.md) | Easy | ✅ | ❌ | ❌ |
 
 ## Join Me on This Journey!
 

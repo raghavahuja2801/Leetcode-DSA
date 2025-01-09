@@ -230,3 +230,35 @@
   solution: solutions/18-4sum.md
   tried: true
   url: https://leetcode.com/problems/4sum/
+- data_type: Sorting
+  difficulty: Easy
+  important: false
+  question: 88. Merge Sorted Array
+  reviewed: false
+  solution: solutions/88-merge-sorted-array.md
+  tried: true
+  url: https://leetcode.com/problems/merge-sorted-array/
+- data_type: Sorting
+  difficulty: Easy
+  important: false
+  question: 217. Contains Duplicate
+  reviewed: false
+  solution: solutions/217-contains-duplicate.md
+  tried: true
+  url: https://leetcode.com/problems/contains-duplicate/
+- data_type: Sorting
+  difficulty: Easy
+  important: false
+  question: 268. Missing Number
+  reviewed: false
+  solution: solutions/268-missing-number.md
+  tried: true
+  url: https://leetcode.com/problems/missing-number/
+- data_type: Sorting
+  difficulty: Easy
+  important: false
+  question: 628. Maximum Product of Three Numbers
+  reviewed: false
+  solution: solutions/628-maximum-product-of-three-numbers.md
+  tried: true
+  url: https://leetcode.com/problems/maximum-product-of-three-numbers/
