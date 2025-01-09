@@ -262,3 +262,19 @@
   solution: solutions/628-maximum-product-of-three-numbers.md
   tried: true
   url: https://leetcode.com/problems/maximum-product-of-three-numbers/
+- data_type: Sorting
+  difficulty: Easy
+  important: false
+  question: 976. Largest Perimeter Triangle
+  reviewed: false
+  solution: solutions/976-largest-perimeter-triangle.md
+  tried: true
+  url: https://leetcode.com/problems/largest-perimeter-triangle/
+- data_type: Sorting
+  difficulty: Easy
+  important: false
+  question: 976. Largest Perimeter Triangle
+  reviewed: false
+  solution: solutions/976-largest-perimeter-triangle.md
+  tried: true
+  url: https://leetcode.com/problems/largest-perimeter-triangle/
