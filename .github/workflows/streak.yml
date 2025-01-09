@@ -4,9 +4,6 @@ on:
   schedule:
     # Run every day at midnight UTC
     - cron: '0 0 * * *'
-  push:
-    branches:
-      - main  # Runs on pushes to the main branch
 
 jobs:
   streak:
