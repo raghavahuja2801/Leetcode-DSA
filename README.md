@@ -59,6 +59,9 @@ Each problem I solve has its own folder with a solution in the form of a code fi
 | Sorting | 217. Contains Duplicate | [Link](https://leetcode.com/problems/contains-duplicate/) | [Solution](solutions/217-contains-duplicate.md) | Easy | ✅ | ❌ | ❌ |
 | Sorting | 268. Missing Number | [Link](https://leetcode.com/problems/missing-number/) | [Solution](solutions/268-missing-number.md) | Easy | ✅ | ❌ | ❌ |
 | Sorting | 628. Maximum Product of Three Numbers | [Link](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](solutions/628-maximum-product-of-three-numbers.md) | Easy | ✅ | ❌ | ❌ |
+| Sorting | 976. Largest Perimeter Triangle | [Link](https://leetcode.com/problems/largest-perimeter-triangle/) | [Solution](solutions/976-largest-perimeter-triangle.md) | Easy | ✅ | ❌ | ❌ |
+| Sorting | 976. Largest Perimeter Triangle | [Link](https://leetcode.com/problems/largest-perimeter-triangle/) | [Solution](solutions/976-largest-perimeter-triangle.md) | Easy | ✅ | ❌ | ❌ |
+
 
 ## Join Me on This Journey!
 
