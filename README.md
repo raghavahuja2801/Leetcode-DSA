@@ -90,5 +90,4 @@ I am excited about collaborating with others who share the same passion for algo
 Let's stay consistent, learn together, and make problem-solving a daily habit!
 
 ---
-
-Thank you for visiting this repository! Feel free to explore, learn, and contribute.
+- Mahesh
