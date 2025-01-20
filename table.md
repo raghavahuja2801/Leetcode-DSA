@@ -44,3 +44,4 @@ Here is the list of Leetcode problems I have worked on:
 | Sorting | 1491. Average Salary Excluding the Minimum and Maximum Salary | [Link](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [Solution](solutions/1491-average-salary-excluding-the-minimum-and-maximum-salary.md) | Easy | ✅ | ❌ | ❌ |
 | Sorting | 1502. Can Make Arithmetic Progression From Sequence | [Link](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [Solution](solutions/1502-can-make-arithmetic-progression-from-sequence.md) | Easy | ✅ | ❌ | ❌ |
 | Sorting | 1331. Rank Transform of an Array | [Link](https://leetcode.com/problems/rank-transform-of-an-array/) | [Solution](solutions/1331-rank-transform-of-an-array.md) | Easy | ✅ | ❌ | ❌ |
+| Sorting | 1380. Lucky Numbers in a Matrix | [Link](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Solution](solutions/1380-lucky-numbers-in-a-matrix.md) | Easy | ✅ | ❌ | ❌ |
