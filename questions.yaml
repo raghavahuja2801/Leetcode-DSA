@@ -326,3 +326,11 @@
   solution: solutions/1380-lucky-numbers-in-a-matrix.md
   tried: true
   url: https://leetcode.com/problems/lucky-numbers-in-a-matrix/
+- data_type: Sorting
+  difficulty: Medium
+  important: false
+  question: 179. Largest Number
+  reviewed: false
+  solution: solutions/179-largest-number.md
+  tried: true
+  url: https://leetcode.com/problems/largest-number/

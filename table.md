@@ -45,3 +45,4 @@ Here is the list of Leetcode problems I have worked on:
 | Sorting | 1502. Can Make Arithmetic Progression From Sequence | [Link](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [Solution](solutions/1502-can-make-arithmetic-progression-from-sequence.md) | Easy | ✅ | ❌ | ❌ |
 | Sorting | 1331. Rank Transform of an Array | [Link](https://leetcode.com/problems/rank-transform-of-an-array/) | [Solution](solutions/1331-rank-transform-of-an-array.md) | Easy | ✅ | ❌ | ❌ |
 | Sorting | 1380. Lucky Numbers in a Matrix | [Link](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Solution](solutions/1380-lucky-numbers-in-a-matrix.md) | Easy | ✅ | ❌ | ❌ |
+| Sorting | 179. Largest Number | [Link](https://leetcode.com/problems/largest-number/) | [Solution](solutions/179-largest-number.md) | Medium | ✅ | ❌ | ❌ |
