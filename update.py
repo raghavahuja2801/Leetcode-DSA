@@ -29,3 +29,4 @@ def update_readme(streak_file, readme_file):
 if __name__ == "__main__":
     update_readme("streak.txt", "README.md")
     print("Done!")
+    print("test")
