@@ -334,4 +334,11 @@
   solution: solutions/179-largest-number.md
   tried: true
   url: https://leetcode.com/problems/largest-number/
-- data_type: 
+- data_type: Array
+  difficulty: Medium
+  important: true
+  question: 15. 3Sum
+  reviewed: false
+  tried: true
+  solution: solutions/15-3sum.md
+  url: https://leetcode.com/problems/3sum/
